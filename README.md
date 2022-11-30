@@ -1,3 +1,3 @@
 # contrast-learning
-Homework of acdamic writing
-This project is 
+Homework of Academic Writing, Norms, and Ethics
+My first try on Github
